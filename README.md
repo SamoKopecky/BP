@@ -1,3 +1,5 @@
+This repository is archived and read-only. A follow up repository has been created at https://github.com/SamoKopecky/ssltest where the development continues.
+
 # Overview
 
 - This repository contains:
